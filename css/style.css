@@ -1038,6 +1038,7 @@ ul.pricing__card-list {
     transform: translateY(-200%);
   }
   .menu__list.menu__list--active {
+    overflow-y: scroll;
     transform: translateY(0);
   }
   .menu__item + .menu__item {
